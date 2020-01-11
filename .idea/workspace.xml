@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcf2f07-fb33-47d1-812a-26f6595a6485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Zad1_Gra_zgad_liczb1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Zad2_Lotto/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +31,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main1">
+  <component name="RunManager" selected="Application.Main1 (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Moduł_01_Warsztat" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Zad2_Lotto.Main1" />
+      <module name="Moduł_01_Warsztat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Zad2_Lotto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -58,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1 (1)" />
         <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
@@ -85,26 +98,30 @@
       <option name="presentableId" value="Default" />
       <updated>1578747487227</updated>
       <workItem from="1578747490804" duration="577000" />
-      <workItem from="1578748093486" duration="1741000" />
+      <workItem from="1578748093486" duration="3089000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="370" height="588" key="GridCell.Tab.0.bottom" timestamp="1578749777444">
+    <state width="370" height="588" key="GridCell.Tab.0.bottom" timestamp="1578751638238">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578749777444" />
-    <state width="370" height="588" key="GridCell.Tab.0.center" timestamp="1578749777444">
+    <state width="370" height="588" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578751638238" />
+    <state width="370" height="588" key="GridCell.Tab.0.center" timestamp="1578751638238">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578749777444" />
-    <state width="370" height="588" key="GridCell.Tab.0.left" timestamp="1578749777443">
+    <state width="370" height="588" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578751638238" />
+    <state width="370" height="588" key="GridCell.Tab.0.left" timestamp="1578751638237">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578749777443" />
-    <state width="370" height="588" key="GridCell.Tab.0.right" timestamp="1578749777444">
+    <state width="370" height="588" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578751638237" />
+    <state width="370" height="588" key="GridCell.Tab.0.right" timestamp="1578751638238">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578749777444" />
+    <state width="370" height="588" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578751638238" />
+    <state x="441" y="310" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578751661577">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="441" y="310" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1299.741@67.27.1299.741" timestamp="1578751661577" />
   </component>
 </project>
