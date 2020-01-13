@@ -1,0 +1,28 @@
+
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(÷Û¤şÿÿÿÿ8Îƒ¤ƒú-
+esquid:S3027"FPut single-quotes around '-' to use the faster "indexOf(char)" method.(êÈ£¬8Îƒ¤ƒú-
+isquid:S3027*"FPut single-quotes around 'D' to use the faster "indexOf(char)" method.(”Õ¨êşÿÿÿÿ8Îƒ¤ƒú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(è³›óúÿÿÿÿ8Îƒ¤ƒú-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òâœßÿÿÿÿÿ
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ùöÊæ8Îƒ¤ƒú-
+psquid:S3776J"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ó€Ì¬8Îƒ¤ƒú-
+isquid:S30270"FPut single-quotes around '+' to use the faster "indexOf(char)" method.(ŠÍ˜ƒşÿÿÿÿ8Îƒ¤ƒú-
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ş è½üÿÿÿÿ8Îƒ¤ƒú-
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(™•Ñüÿÿÿÿ8Îƒ¤ƒú-
+isquid:S3027z"FPut single-quotes around 'D' to use the faster "indexOf(char)" method.(‘ôÄÑıÿÿÿÿ8Îƒ¤ƒú-
+esquid:S3027‹"FPut single-quotes around '+' to use the faster "indexOf(char)" method.(ıÎÒ‘8Îƒ¤ƒú-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(“»„¾ûÿÿÿÿ8Îƒ¤ƒú-
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(±¬ÀÌ8Îƒ¤ƒú-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Òêˆ”8Îƒ¤ƒú-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôª£G8Îƒ¤ƒú-
+dsquid:S30272"FPut single-quotes around '-' to use the faster "indexOf(char)" method.(¡›˜‹8Îƒ¤ƒú-
+dsquid:S3027&"FPut single-quotes around 'D' to use the faster "indexOf(char)" method.(Âü¡Ô8Îƒ¤ƒú-

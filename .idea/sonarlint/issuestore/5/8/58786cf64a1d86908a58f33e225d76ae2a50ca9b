@@ -1,0 +1,31 @@
+
+T
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(„ğÎüÿÿÿÿ
+O
+squid:S106("9Replace this use of System.out or System.err by a logger.(‡ĞÏÆ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ®åË
+O
+squid:S106_"9Replace this use of System.out or System.err by a logger.(‚ÏÔ³
+T
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Ê ‰Öÿÿÿÿÿ
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Çµí‘
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ÁØŠÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éí°ùÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ïôÈ’øÿÿÿÿ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ù²Ğ®
+O
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ôªÿ–
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(ÂÎîùüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨™áşÿÿÿÿ
+T
+squid:S106X"9Replace this use of System.out or System.err by a logger.(š›„Âÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş¿¯
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï‹Ï8
