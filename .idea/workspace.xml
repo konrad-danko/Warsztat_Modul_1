@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fcf2f07-fb33-47d1-812a-26f6595a6485" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Zad2_Lotto/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Zad3_Gra_zgad_liczb2/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Zad4_Kostka/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Zad5_Wyszukiwarka/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moduł_01_Warsztat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Moduł_01_Warsztat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Moduł_01_Warsztat/com/company/Zad2_Lotto/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Moduł_01_Warsztat/com/company/Zad2_Lotto/Main1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,26 +32,60 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main1 (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Moduł_01_Warsztat" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main1 (4)">
     <configuration name="Main1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Zad2_Lotto.Main1" />
       <module name="Moduł_01_Warsztat" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.Zad2_Lotto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Zad5_Wyszukiwarka.Main1" />
+      <module name="Moduł_01_Warsztat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Zad5_Wyszukiwarka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Zad3_Gra_zgad_liczb2.Main1" />
+      <module name="Moduł_01_Warsztat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Zad3_Gra_zgad_liczb2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main1 (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Zad4_Kostka.Main1" />
+      <module name="Moduł_01_Warsztat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Zad4_Kostka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main1 (4)" />
+        <item itemvalue="Application.Main1 (3)" />
         <item itemvalue="Application.Main1 (1)" />
         <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -98,27 +139,57 @@
       <option name="presentableId" value="Default" />
       <updated>1578747487227</updated>
       <workItem from="1578747490804" duration="577000" />
-      <workItem from="1578748093486" duration="3089000" />
+      <workItem from="1578748093486" duration="10025000" />
+      <workItem from="1578768854497" duration="1461000" />
+      <workItem from="1578943432722" duration="1646000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="370" height="588" key="GridCell.Tab.0.bottom" timestamp="1578751638238">
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578768909982">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578751638238" />
-    <state width="370" height="588" key="GridCell.Tab.0.center" timestamp="1578751638238">
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1578768909982" />
+    <state width="376" height="588" key="GridCell.Tab.0.bottom" timestamp="1578944488389">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578751638238" />
-    <state width="370" height="588" key="GridCell.Tab.0.left" timestamp="1578751638237">
+    <state width="376" height="588" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578944488389" />
+    <state width="376" height="588" key="GridCell.Tab.0.center" timestamp="1578944488389">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578751638237" />
-    <state width="370" height="588" key="GridCell.Tab.0.right" timestamp="1578751638238">
+    <state width="376" height="588" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578944488389" />
+    <state width="376" height="588" key="GridCell.Tab.0.left" timestamp="1578944488388">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="370" height="588" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578751638238" />
+    <state width="376" height="588" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578944488388" />
+    <state width="376" height="588" key="GridCell.Tab.0.right" timestamp="1578944488389">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="376" height="588" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578944488389" />
+    <state width="1299" height="218" key="GridCell.Tab.1.bottom" timestamp="1578768685392">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="218" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578768685392" />
+    <state width="1299" height="218" key="GridCell.Tab.1.center" timestamp="1578768685391">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="218" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1578768685391" />
+    <state width="1299" height="218" key="GridCell.Tab.1.left" timestamp="1578768685391">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="218" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1578768685391" />
+    <state width="1299" height="218" key="GridCell.Tab.1.right" timestamp="1578768685392">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1299" height="218" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1578768685392" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1578768990996">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1578768990996" />
+    <state width="649" height="371" key="XDebugger.FullValuePopup" timestamp="1578755973705">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="649" height="371" key="XDebugger.FullValuePopup/67.27.1299.741@67.27.1299.741" timestamp="1578755973705" />
     <state x="441" y="310" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1578751661577">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
