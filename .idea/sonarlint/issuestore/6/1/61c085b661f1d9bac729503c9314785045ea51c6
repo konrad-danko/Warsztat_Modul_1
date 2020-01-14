@@ -1,11 +1,11 @@
 
-psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8ğİõ†ú-
-[
-squid:S106P"9Replace this use of System.out or System.err by a logger.(ã²Üùÿÿÿÿ8º®ˆú-
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8êâ‚†ú-
+fsquid:S2095 "HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Áôñà8Ñ˜–„ú-
 csquid:S2095>"EUse try-with-resources or close this "Scanner" in a "finally" clause.(âòÀê8÷æä†ú-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öşç«
 [
 squid:S106)"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8¾Â™†ú-
 fsquid:S2095="HUse try-with-resources or close this "FileWriter" in a "finally" clause.(†õÖÓ8Ùš‡ú-
-Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8êâ‚†ú-
-fsquid:S2095 "HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Áôñà8Ñ˜–„ú-
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(öşç«
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(œû¿Ø8ğİõ†ú-
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ã²Üùÿÿÿÿ8º®ˆú-

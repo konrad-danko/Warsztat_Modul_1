@@ -30,9 +30,8 @@ public class Main1 {
         //deklaracja obiektu klasy Connection (ściąganie danych z Internetu)
         Connection connect = Jsoup.connect("https://www.onet.pl/");
         FileWriter filWrit = new FileWriter("popular_words.txt", false);
-        //deklaracja tablicy ze znakami do usunięcia, na wszelki wypadek są wyescapowane
-        //ale nie wiem jak tu dodać znak cudzysłowu: ",
-        String[] charsRemoved = {"\\–","\\]","\\[","\\«","\\»","\\.","\\-","\\?","\\!","\\:","\\,","\\'","\\+"};
+        //deklaracja tablicy ze znakami do usunięcia, na wszelki wypadek niektóre są wyescapowane
+        String[] charsRemoved = {"\"","\\.","\\+","\\[","\\]","\\?","'","–","«","»","-","!",":",","};
         try {
             Document document = connect.get(); //ściąganie danych z Internetu
             Elements links = document.select("span.title"); //ściąganie danych z Internetu
